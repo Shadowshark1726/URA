@@ -1,0 +1,40 @@
+
+h1 {
+    padding-left: 10.5em;
+    font-family: 'New Rocker', cursive;
+    text-shadow: 2px 2px #980000;
+    font-size: 300%;
+    color: #D3D3D3;
+}
+
+#container {
+    padding-top: 3em;
+     color: #D3D3D3;     
+     font-size:300%;
+     padding-left: 2em;
+     font-family: 'New Rocker', cursive;
+     text-shadow: 2px 2px #980000;
+}
+
+p {
+    color: #fff;
+    font-size: 18px;
+}
+
+h2 {
+    color: #D3D3D3;
+    font-family: 'New Rocker', cursive;
+     font-size:300%;
+    text-shadow: 2px 2px #980000;
+    position: relative;
+    bottom: 11.5em;
+    left: 23em;
+}
+
+#chaos1 {
+    
+}
+
+#linkinfo {
+    
+}
